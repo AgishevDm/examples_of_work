@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/d9e0c535-b653-419b-acd9-7e7f9a6a24da
 
 ![image](https://github.com/user-attachments/assets/deb9454a-ab78-4347-8c51-fbf1344e4afc)
 
-# Система оповещений о совещаниях:
+# Система работы с совещаниями:
 
 ![image](https://github.com/user-attachments/assets/6c9334ef-80b6-4d37-9690-c206c9682723)
 
