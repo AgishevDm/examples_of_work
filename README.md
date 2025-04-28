@@ -2,6 +2,7 @@
 
 # Окно входа и регистрации в одну из систем: HTML, CSS
 
+https://github.com/user-attachments/assets/3d5957a6-146a-429a-8725-8c142ec4cc46
 
 # Сайт и панель-администрирования магазина: HTML, CSS, JS,  PHP,  MySQL
 
