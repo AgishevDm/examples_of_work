@@ -3,7 +3,7 @@
 # Окно входа и регистрации в одну из систнм: HTML, CSS
 
 
-# Сайт магазина: HTML, CSS, JS,  PHP,  MySQL
+# Сайт и панель-администрирования магазина: HTML, CSS, JS,  PHP,  MySQL
 
 
 https://github.com/user-attachments/assets/19ec90c9-bd9e-4d48-86b8-e4ee5f911678
