@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/19ec90c9-bd9e-4d48-86b8-e4ee5f911678
 
 ![image](https://github.com/user-attachments/assets/c5d70575-ac00-482d-8d4e-4e002b0163d4)  ![image](https://github.com/user-attachments/assets/9b3a0906-0da8-4a4d-abda-7534296c98ad)
 
-# Приложение Интерактивные карты ПГНИУ:
+# Приложение Интерактивные карты ПГНИУ: (апгрейд в виде платформы CampusPSU см.тут-> https://github.com/AgishevDm/campus)
 
 https://github.com/user-attachments/assets/d9e0c535-b653-419b-acd9-7e7f9a6a24da
 
