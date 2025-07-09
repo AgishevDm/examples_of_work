@@ -53,9 +53,6 @@ https://github.com/user-attachments/assets/d9e0c535-b653-419b-acd9-7e7f9a6a24da
 
 ![image](https://github.com/user-attachments/assets/d054dbfb-e14e-4e43-bb79-09b1fd8ad02b)
 
-# Разработка кастомной навигации и некоторых окон: 
-
-![image](https://github.com/user-attachments/assets/3d99f210-becf-4423-b225-6589603cd306)
 
 
 
